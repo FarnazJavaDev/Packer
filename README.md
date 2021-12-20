@@ -37,6 +37,6 @@ Additional constraints:
 2. There might be up to 15 items you need to choose from
 3. Max weight and cost of an item is ≤ 100
 
-** to build the project please use this command ** 
+**to build the project please use this command** 
 
 `mvn clean package`
